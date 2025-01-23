@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases a common error related to integer assignment using pointers. The bug.c file contains the erroneous code, while the bugSolution.c file provides a corrected version and explanation.
